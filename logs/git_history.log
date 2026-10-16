@@ -1,0 +1,7 @@
+* 778b918 - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:48:25 2026 +0700): docs: Luu tru day du 3 tap tin log minh chung thuc thi (local, git, github actions)
+* 4b0e7e1 - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:47:13 2026 +0700): ci: Bo sung buoc upload artifact HTML coverage report len GitHub Actions
+* be744f8 - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:46:23 2026 +0700): fix: Phuc hoi ma nguon yummy_app.py dua build tro lai trang thai Pass
+* db83214 - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:45:24 2026 +0700): test: Co tinh tao loi cu phap thuc hanh Break the Build
+* cc3a7f6 - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:44:21 2026 +0700): feat: Bo sung 7 test case Mocking dua do bao phu dat 97% vuot Quality Gate
+* a580a42 - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:42:57 2026 +0700): ci: Kich hoat Quality Gate (Linter va nguong Coverage >= 80%)
+* 9ab9c8b - 2312695 - Nguyen Pham Phu Nam (Fri Oct 16 13:37:48 2026 +0700): feat: Khoi tao du an YummyApp va thiet lap CI Pipeline co ban
